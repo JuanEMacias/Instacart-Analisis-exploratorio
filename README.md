@@ -1,4 +1,4 @@
-<h1 align="center"> Data Analytics: Análisis exploratorio de Instacart </h1>
+<h1 align="center"> Instacart: Análisis exploratorio básico con Python  </h1>
 
 ### Descripción
 ***
