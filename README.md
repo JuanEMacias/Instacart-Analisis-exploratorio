@@ -9,5 +9,5 @@ Se limpian los datos y se prepara un informe que brinda información sobre los h
 ## Tecnologías
 ***
 Los recursos utilizados en este proyecto son:
-* Python (librerias pandas y matplotlib)
+* Python (librerías pandas y matplotlib)
 * Jupyter Notebooks
